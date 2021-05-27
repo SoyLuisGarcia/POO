@@ -1,0 +1,23 @@
+ public double getLeche() {
+        return Leche;
+    }
+
+    public int getAtun() {
+        return Atun;
+    }
+
+    public String getSoda() {
+        return Soda;
+    }
+
+    public void setLeche(String Leche) {
+        this.Leche = Leche;
+    }
+
+    public void setAtun(String Atun) {
+        this.Atun = Atun;
+    }
+
+    public void setSoda(String Soda) {
+        this.Soda = Soda;
+    }
